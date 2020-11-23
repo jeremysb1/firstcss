@@ -1,0 +1,16 @@
+body {
+	margin: 0;
+}
+
+h2 {
+	text-align: center;
+	font-family: 'Big Shoulders Stencil Display', cursive;
+}
+
+p {
+	font-family: 'Big Shoulders Stencil Display', cursive;
+}
+
+li {
+	display: inline-block;
+}
