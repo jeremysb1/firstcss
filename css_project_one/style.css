@@ -1,5 +1,9 @@
 body {
 	margin: 0;
+	background: #221142;
+    font-size: 1rem;
+    font-family: "Raleway", sans-serif;
+    color: #d0dae8;
 }
 
 h2 {
@@ -13,4 +17,8 @@ p {
 
 li {
 	display: inline-block;
+}
+
+.fit-picture {
+	background-image: url('Nebula.jpg')
 }
